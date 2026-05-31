@@ -1,0 +1,6 @@
+Manzana 1.5
+Pera 2
+Banana 3.5
+Leche 8
+Pan 1.2
+ 0

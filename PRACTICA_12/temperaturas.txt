@@ -1,0 +1,5 @@
+LaPaz 18
+Cochabamba 28
+SantaCruz 35
+Oruro 15
+Tarija 30

@@ -1,0 +1,1 @@
+calcularpromedio("calificaciones.txt");
